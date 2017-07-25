@@ -4,21 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+7/25/17
 
 ### Student Name:  
-(First and Last Name)
+Tristen Rogers
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a browne recipe page with interative buttons to reveal more information and make the page a dynamic feature.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://trr15b.github.io/lesson7_recipe/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how tags can be used to fix a majority of the problems we have be having with calling functions and how the append feature can be used to add information.
+2. We learned how to work with elements and to pull information from diffrent files by linking the two together with code.
+3. We learned how elements in a dynamic page can be hidden and revealed without having to change the whole page and that is what makes a dynamic page fundamentally different from a static page.
 
-# lesson7_recipe
